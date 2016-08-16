@@ -21,9 +21,9 @@
 * Russ Savage
 * FreeAdWordsScripts.com
 **********************************************/
-var clientName = "Ziggo - GET niet-klant";
+var clientName = "yourClientName";
 var EXTRA_LOGS = true;
-var TO = ['h.maas@searchresult.nl'];
+var TO = ['yourE-mailAdress'];
 var CONFIDENCE_LEVEL = 95; // 90%, 95%, or 99% are most common
 
 //If you only want to run on some campaigns, apply a label to them
