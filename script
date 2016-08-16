@@ -1,6 +1,8 @@
 /*********************************************
 * Automated Creative Testing With Statistical Significance
-* Version 3.0
+* Changelog v3.1
+*   - Added Clientname support
+* Changelog v3.0
 *   - Added Expanded Text Ad (ETA) Support
 *   - Changed Analytics targeting script to send information to our own profile. (old was: UA-40187672-2)
 * Hervé Maas
